@@ -1,15 +1,12 @@
 ---
 layout: page
 permalink: /team/
-title:
+title: Our Team
 description:
 nav: True
 nav_order: 3
 ---
 
-# Our Team
-
----
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">
